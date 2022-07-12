@@ -3,3 +3,4 @@
   {{cloze sprintf、snprintf}}都无法处理常见的 {{cloze len += sprintf()}}的场景，常常会导致bug。
 - [[card]]
 -
+-
