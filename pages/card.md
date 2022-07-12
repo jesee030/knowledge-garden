@@ -1,2 +1,4 @@
 - {{cards }}
+- C语言程序中的sprint函数存在安全隐患#card
+- [[card]]
 -
