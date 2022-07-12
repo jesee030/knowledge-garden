@@ -10,3 +10,5 @@
 		- [[践行极简理念，高效数字生活]]
 		- [[哥斯拉]]
 		- 更多例子 [Kenshin's Note](https://kenshin.wang/note)
+		- [[draws/2022-07-12-09-37-19.excalidraw]]
+		  id:: 62ccd04b-9e97-4443-b726-3fe5e7161787
