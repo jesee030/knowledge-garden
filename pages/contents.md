@@ -1,1 +1,5 @@
--
+- https://jesee030.github.io/knowledge-garden/
+	- [[mainBranch]]
+- [jesee030/knowledge-garden: Logseq + Github Page 无代码全自动化知识管理发布方案, https://jesee030.github.io/knowledge-garden/](https://github.com/jesee030/knowledge-garden)
+	- #content
+	-
